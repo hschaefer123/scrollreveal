@@ -9,7 +9,7 @@
 ![Screenshot](ScrollReveal.png)
 
 The demo is a UI5 wrapper for the ScrollReveal project
-[ScrollReveal Git Repository]https://github.com/jlmakes/scrollreveal
+[ScrollReveal Git Repository](https://github.com/jlmakes/scrollreveal)
 
 The code uses most up-to-date browser features and is highly experimental (not thought to be used for productive apps).
 It should only demonstrate some browser features and be a nice giveaway for XMas.
@@ -19,7 +19,6 @@ It should only demonstrate some browser features and be a nice giveaway for XMas
 > - custom control to extend sap.m.List
 > - support of binding and growing by resyncing dom elements
 > - using JSON model initialized inside manifest.json
-> - collection of interessting articles concerning UI5 developent
 
 ## License
 

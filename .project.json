@@ -7,7 +7,7 @@
     "targetFolder": "dist",
     "sourceFolder": "webapp",
     "buildRequired": false,
-    "lastBuildDateTime": "Fri, 31 Mar 2017 12:28:16 GMT"
+    "lastBuildDateTime": "Fri, 31 Mar 2017 12:50:40 GMT"
   },
   "generation": [
     {
@@ -45,6 +45,6 @@
   "hcpdeploy": {
     "account": "p1940953245trial",
     "name": "scrollreveal",
-    "lastVersionWeTriedToDeploy": "1.0.1"
+    "lastVersionWeTriedToDeploy": "1.0.2"
   }
 }
