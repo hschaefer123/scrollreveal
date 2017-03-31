@@ -1,0 +1,49 @@
+<mvc:View controllerName="de.blogspot.openui5.scrollreveal.controller.App" displayBlock="true" 
+	xmlns:core="sap.ui.core"
+	xmlns:sr="de.blogspot.openui5.scrollreveal.control"
+	xmlns:mvc="sap.ui.core.mvc" 
+	xmlns="sap.m">
+	<App>
+		<pages>
+			<Page title="{i18n>title} ({ui>/results})">
+				<subHeader>
+					<Toolbar>
+						<SearchField search="onSearch" />
+					</Toolbar>
+				</subHeader>
+				<content>
+					<sr:ScrollRevealList 
+						id="list"
+						revealConfig="{
+							reset : true,
+							scale : 0.1
+						}"
+						growing="true"
+						growingScrollToLoad="true"
+						items="{
+							path : '/Users',
+							sorter : [
+								{ path: 'area', descending: false, group: true },
+								{ path: 'lastname' },
+								{ path: 'firstname' }
+							]
+						}">
+						<CustomListItem class="uoCustomListItem sapMLIB sapMLIB-CTX sapMLIBFocusable sapMLIBShowSeparator sapMLIBTypeInactive sapMSLI sapMSLIIcon sapMSLIIconThumb">
+							<HBox class="sapMLIBContent">
+								<Image class="sapUiSmallMarginBeginEnd" width="2.8rem" height="2.8rem" src="{= (${avatar}) ? ${avatar} : './mimes/anonymous-512.png' }" densityAware="false" />
+								<VBox justifyContent="SpaceBetween" width="100%">
+									<Title text="{firstname} {lastname}" />
+									<HBox class="sapUiSmallMarginEnd" justifyContent="SpaceBetween">
+										<Link class="github" text="{github}" href="https://github.com/{github}" target="_blank" visible="{= ${github}.length > 0 }" />
+										<Link class="twitter" text="{twitter}" href="https://twitter.com/{twitter}" target="_blank" visible="{= ${twitter}.length > 0 }" />
+									</HBox>
+								</VBox>
+							</HBox>
+						</CustomListItem>
+					</sr:ScrollRevealList>
+				</content>
+			</Page>
+		</pages>
+	</App>
+	<core:Fragment fragmentName="de.blogspot.openui5.scrollreveal.view.GitHubRibbon" type="XML" />
+</mvc:View>

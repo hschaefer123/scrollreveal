@@ -1,0 +1,67 @@
+/* Ensure elements load hidden before ScrollReveal runs */
+.uoScrollReveal .sapMLIB { visibility: hidden; }
+
+/* add perspective to your container */
+/*
+.sapMPage section {
+	-webkit-perspective: 1024px; /* Chrome, Safari, Opera */
+	/*perspective: 1024px;
+}
+*/
+
+.uoCustomListItem {
+
+}
+
+.uoCustomListItem {
+	padding: 0.5rem;
+}
+
+.uoCustomListItem .sapMImg {
+	border-radius: 50%;
+}
+
+.uoCustomListItem .sapMLnk {
+	color: gray;	
+}
+
+.uoCustomListItem .sapMLnk:empty {
+	display: none;
+}
+
+.uoCustomListItem .github {
+	padding-left: 1.25rem;
+	background-image: url("../mimes/github.svg");
+	background-repeat: no-repeat;
+	background-position: left center;
+	background-size: 1rem;
+}
+
+.uoCustomListItem .twitter:before {
+	content: '@';
+}
+
+.uoCustomListItem .twitter {
+	padding-left: 1rem;
+	background-image: url("../mimes/twitter.svg");
+	background-repeat: no-repeat;
+	background-position: left center;
+	background-size: 1rem;
+}
+
+/* rounded avatars */
+.sapMSLIImg {
+	border-radius: 50%;
+}
+
+.sapMBtnCustomIcon {
+	height: 80%;
+}
+
+.sapMSLIDescriptionDiv {
+	padding-left: 1.2rem;
+	background-image: url("../mimes/twitter.svg");
+	background-repeat: no-repeat;
+	background-position: left center;
+	background-size: 1rem;
+}

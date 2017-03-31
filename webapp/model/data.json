@@ -1,0 +1,213 @@
+{
+	"Users" : [
+		{
+			"area" : "ABAP",
+			"firstname" : "Gregor",
+			"lastname" : "Wolf",
+			"twitter" : "wolf_gregor",
+			"github" : "gregorwolf",
+			"avatar" : "https://avatars2.githubusercontent.com/u/2639535"
+		},
+		{
+			"area" : "ABAP",
+			"firstname" : "Christian",
+			"lastname" : "Braukmüller",
+			"twitter" : "CBasis",
+			"github" : "CBasis",
+			"avatar" : "https://avatars3.githubusercontent.com/u/2906185"
+		},		
+		{
+			"area" : "ABAP",
+			"firstname" : "Uwe",
+			"lastname" : "Fetzer",
+			"twitter" : "se38",
+			"github" : "se38",
+			"avatar" : "https://avatars3.githubusercontent.com/u/5384144"
+		},		
+		{
+			"area" : "ABAP",
+			"firstname" : "Tobias",
+			"lastname" : "Trapp",
+			"twitter" : "ttrapp",
+			"github" : "ttrapp",
+			"avatar" : "https://avatars1.githubusercontent.com/u/43755"
+		},		
+		{
+			"area" : "ABAP",
+			"firstname" : "Volker",
+			"lastname" : "Janzen",
+			"twitter" : "Voja0815"
+		},
+		{
+			"area" : "HANA",
+			"firstname" : "Thomas",
+			"lastname" : "Jung",
+			"twitter" : "thomas_jung",
+			"github" : "I809764",
+			"avatar" : "https://avatars3.githubusercontent.com/u/12159356"
+		},	
+		{
+			"area" : "HANA",
+			"firstname" : "Rich",
+			"lastname" : "Heilman",
+			"twitter" : "RichHeilman",
+			"avatar" : "http://content.sapvirtualevents.com/content/dam/sapvep/customimages/au-sap-architect-and-developer-summit/Rich_Heilman.jpg"
+		},	
+		{
+			"area" : "Design",
+			"firstname" : "Mary",
+			"lastname" : "Lou (Manoela Ilic)",
+			"twitter" : "crnacura",
+			"github" : "crnacura",
+			"avatar" : "https://avatars1.githubusercontent.com/u/1044196"
+		},
+		{
+			"area" : "Design",
+			"firstname" : "",
+			"lastname" : "Metafizzy",
+			"twitter" : "metafizzyco",
+			"github" : "metafizzy",
+			"avatar" : "https://avatars0.githubusercontent.com/u/573910"
+		},
+		{
+			"area" : "Marketing",
+			"firstname" : "Margot",
+			"lastname" : "Wollny",
+			"avatar" : "https://people.sap.com/avatar/margot.wollny"
+		},
+		{
+			"area" : "UI5",
+			"firstname" : "Holger",
+			"lastname" : "Schäfer",
+			"twitter" : "hschaefer123",
+			"github" : "hschaefer123",
+			"avatar" : "https://avatars0.githubusercontent.com/u/2110971"
+		},
+		{
+			"area" : "UI5",
+			"firstname" : "Helmut",
+			"lastname" : "Tammen",
+			"twitter" : "helmuttammen",
+			"github" : "htammen",
+			"avatar" : "https://avatars3.githubusercontent.com/u/847143"
+		},
+		{
+			"area" : "UI5",
+			"firstname" : "Jan",
+			"lastname" : "Penninkhof",
+			"twitter" : "jpenninkhof",
+			"github" : "jpenninkhof",
+			"avatar" : "https://avatars1.githubusercontent.com/u/1399796"
+		},
+		{
+			"area" : "UI5",
+			"firstname" : "Andreas",
+			"lastname" : "Kunz",
+			"twitter" : "aku_dev",
+			"github" : "akudev"
+		},
+		{
+			"area" : "UI5",
+			"firstname" : "Mark",
+			"lastname" : "Schmale",
+			"github" : "themasch",
+			"avatar" : "https://avatars1.githubusercontent.com/u/170171"
+		},
+		{
+			"area" : "UI5",
+			"firstname" : "Janina",
+			"lastname" : "Bläsius",
+			"twitter" : "blaesiusj"
+		},
+		{
+			"area" : "UI5",
+			"firstname" : "Michael",
+			"lastname" : "Graf",
+			"twitter" : "michadelic",
+			"github" : "michadelic",
+			"avatar" : "https://avatars2.githubusercontent.com/u/6791333"
+		},
+		{
+			"area" : "UI5",
+			"firstname" : "Frederic",
+			"lastname" : "Berg",
+			"twitter" : "frdrcbrg",
+			"github" : "frdrcbrg",
+			"avatar" : "https://avatars0.githubusercontent.com/u/1190305"
+		},
+		{
+			"area" : "UI5",
+			"firstname" : "Denise",
+			"lastname" : "Nepraunig",
+			"twitter" : "denisenepraunig",
+			"github" : "denisenepraunig",
+			"avatar" : "https://avatars2.githubusercontent.com/u/7646025"
+		},
+		{
+			"area" : "UI5",
+			"firstname" : "Matthias",
+			"lastname" : "Oßwald",
+			"twitter" : "matthiaso",
+			"github" : "matz3",
+			"avatar" : "https://avatars1.githubusercontent.com/u/1410947"
+		},
+		{
+			"area" : "UI5",
+			"firstname" : "Tobias",
+			"lastname" : "Oetzel",
+			"twitter" : "Tobias_oetzel",
+			"github" : "TobiasOetzel",
+			"avatar" : "https://avatars2.githubusercontent.com/u/5318500"
+		},
+		{
+			"area" : "UI5",
+			"firstname" : "Christiane",
+			"lastname" : "Kurz",
+			"twitter" : "learnui5",
+			"github" : "christianekurz",
+			"avatar" : "https://avatars2.githubusercontent.com/u/6303252"
+		},
+		{
+			"area" : "UI5",
+			"firstname" : "Robin",
+			"lastname" : "van het Hof",
+			"twitter" : "Qualiture",
+			"github" : "qualiture",
+			"avatar" : "https://avatars3.githubusercontent.com/u/7068851"
+		},
+		{
+			"area" : "UI5",
+			"firstname" : "DJ",
+			"lastname" : "Adams",
+			"twitter" : "qmacro",
+			"github" : "qmacro",
+			"avatar" : "https://avatars3.githubusercontent.com/u/73068"
+		},
+		{
+			"area" : "UI5",
+			"firstname" : "Martin",
+			"lastname" : "Wittmann",
+			"twitter" : "machwitt",
+			"github" : "machwitt",
+			"avatar" : "https://avatars3.githubusercontent.com/u/6814704"
+		},
+		{
+			"area" : "UI5",
+			"firstname" : "Stefan",
+			"lastname" : "Beck",
+			"twitter" : "StefanBeck3"
+		},		
+		{
+			"area" : "UI5",
+			"firstname" : "Tim",
+			"lastname" : "Back",
+			"twitter" : "timlizzy"
+		},		
+		{
+			"area" : "Web IDE",
+			"firstname" : "Oliver",
+			"lastname" : "Graeff",
+			"twitter" : "OliverGraeff"
+		}
+	]
+}
