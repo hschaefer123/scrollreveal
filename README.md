@@ -6,7 +6,7 @@
 
 ### [Online Demo (SAP HCP)](https://scrollreveal-p1940953245trial.dispatcher.hanatrial.ondemand.com/index.html)
 
-![Screenshot](ScrollReveal.gif)
+![Screenshot](./ScrollReveal.gif)
 
 The demo is a UI5 wrapper for the ScrollReveal project
 [ScrollReveal Git Repository](https://github.com/jlmakes/scrollreveal)
